@@ -1,0 +1,8 @@
+{
+  "name": "my-spotify-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/agumy-playground/my-spotify-app.git",
+  "author": "agumy <nov13sh@gmail.com>",
+  "license": "MIT"
+}
